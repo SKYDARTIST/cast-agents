@@ -1,0 +1,5 @@
+{
+  "name": "Cast Agents",
+  "description": "A Farcaster-native Agent OS. Spawn specialized AI agents (Wallet, Swap, Governance) powered by Gemini to analyze onchain data and prepare transactions.",
+  "requestFramePermissions": []
+}
