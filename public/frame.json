@@ -1,0 +1,8 @@
+{
+  "type": "farcaster-frame",
+  "name": "CastAgents — Agent Gallery",
+  "description": "Spawn specialized autonomous agents: wallet, airdrop, swap previews.",
+  "api": "https://cast-agents.vercel.app/api/frame",
+  "preview": "https://cast-agents.vercel.app/frame-gallery.png",
+  "version": 1
+}
